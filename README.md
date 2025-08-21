@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # synte_edu_mobile_backend
-Parents/Gurdian Mobile App Backend for Frappe Education App
-=======
-### Synte Edu Tech
+Parents/Gurdian Mobile App Backend Integration with Frappe Education App (Communication Module etc.)
+### By Synte Edu Tech
 
 Parents/Gurdian Mobile App Backend for Frappe Education App
 
